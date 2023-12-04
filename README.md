@@ -10,7 +10,7 @@
 - [Speech To Text](#speech-to-text)
 - [LLM Desktop Apps](#llm-desktop-apps)
 - [7B Param Models](#7b-param-models)
-
+- [Image Generation](#image-generation)
 
 ## Introduction
 The future of LLMs is decentralized, local and open source. This is the ultimate resource for it. Happy to accept contributions!
@@ -31,3 +31,7 @@ The future of LLMs is decentralized, local and open source. This is the ultimate
 > These models run really well on even an M1 Macbook Air!
 
 - [Starlink 7B](https://starling.cs.berkeley.edu/) - Comparable to GPT-3.5 for creative writing, STEM, humanities and role play. Struggles with tasks involving reasoning or mathematics and may not always accurately self-identify or ensure the factual correctness of its outputs.
+
+## Image Generation
+
+- [Draw Things](https://drawthings.ai/) - Run full stable diffusion models on your Macbook and iPhone.
